@@ -1,7 +1,7 @@
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25143",
-	"name": "SpidermanNo",
+	"ip":"game4.falixserver.net:37952",
+	"port": "37952",
+	"name": "[bot]",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
